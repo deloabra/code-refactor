@@ -1,6 +1,6 @@
 # code-refactor
 
-    The purpose of this project is to practice editing html and css of already existing files to be more readable, identifiable, and compressed.
+The purpose of this project is to practice editing html and css of already existing files to be more readable, identifiable, and compressed.
 
     Changes to the original files include:
         1. Changing html elements to be semantic.
